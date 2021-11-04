@@ -1,0 +1,36 @@
+body {
+    background-color: #3acc15;
+}
+td,th {
+    border: 2px solid #420080;
+}
+table{
+    width:100%;
+    height:800px;
+}
+ 
+h2 {
+    margin: auto;
+}
+tr :hover{ 
+    background: linear-gradient(180deg,blue, yellow);
+}
+tr :hover{  
+    -webkit-transform: scale(1);
+  transform: scale(1.2);
+}
+table
+ {text-align: center;
+    font-size: 40px;
+}
+h1 {text-align: center
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.zagol {
+    width: 100px;
+    height: 100px; 
+}
